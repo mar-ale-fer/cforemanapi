@@ -1,0 +1,8 @@
+[
+  { "code": "DOP01", "text": "Site Supervisor to check for overhead hazards" },
+  { "code": "DOP02", "text": "Make sure Elevated Work Platforms (EWP) are not erected within 4 metres of overhead power lines unless they are protected;" },
+  { "code": "DOP03", "text": "Never work in high winds near overhead power lines" },
+  { "code": "DOP04", "text": "If power lines are near the work area, but greater than 4 metres, cover the lines with tiger tails" },
+  { "code": "DOP05", "text": "If power lines are closer than 4 meters, power must be turned off" },
+  { "code": "DOP06", "text": "If contact is made with live services the operator is to a). Warn all persons that the EWP is live b). If safe manoeuvre the EWP clear of live apparatus. c). If unable to maneuver clear, all personnel are to be advised not to approach the EWP and to contact emergency services immediately (Ph 111) If it is necessary to exit EWP jump clear do not step off (only to exit if absolutely necessary e.g. fire or explosion)" }
+]
