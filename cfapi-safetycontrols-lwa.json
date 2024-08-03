@@ -1,0 +1,15 @@
+[
+  { "code": "LWA01", "text": "Make sure EWP is secure against unauthorised entry." },
+  { "code": "LWA02", "text": "Inspect all fiberglass components for cracks especially where bonded to boom" },
+  { "code": "LWA03", "text": "Inspect chain and cable mechanisms for slackness and damage (for vertical lifts)" },
+  { "code": "LWA04", "text": "Inspect hydraulic hoses and fuel system for leaks/damage (look for puddles on the ground)" },
+  { "code": "LWA05", "text": "Check all fluid levels, engine oil to main and auxiliary engines, radiator, fuel, and hydraulic tank" },
+  { "code": "LWA06", "text": "Inspect all cables and wiring for damage" },
+  { "code": "LWA07", "text": "Check controls are not damaged and they return to the neutral/central position when released" },
+  { "code": "LWA08", "text": "Check operation of emergency stop and deadman (if applicable). The machine should stop when deadman button or foot control is released" },
+  { "code": "LWA09", "text": "Check operation of brakes and controls at ground and platform levels (fwd / rev / raise / lower / slew etc). Be aware some machines have a time delay before the brakes apply" },
+  { "code": "LWA10", "text": "Check the operation of platform emergency descent and/or operator retrieval system (if fitted)" },
+  { "code": "LWA11", "text": "Provide and practice rescue from the EWP" },
+  { "code": "LWA12", "text": "Clean mud from footwear before climbing onto work platform." },
+  { "code": "LWA13", "text": "Fill out and complete the “Pre Operational Inspection Checklist” form daily." }
+]
