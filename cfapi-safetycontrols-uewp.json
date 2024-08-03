@@ -1,0 +1,20 @@
+[
+  { "code": "UEWP01", "text": "Check manufacturers operating instructions are on machine and familiarise yourself with these before operating EWP" },
+  { "code": "UEWP02", "text": "All workers to wear recommended Personal Protective Equipment (PPE) as advised by the Site Supervisor after all other controls to eliminate hazards are in place. PPE includes but is not limited to eye and hearing protection,approved respirators, hard hats, safety boots, gloves and sun protection" },
+  { "code": "UEWP03", "text": "All workers to wear an approved fall arrest harness designed for attachment to a lanyard assembly including a personal energy absorber if there is a risk of free-fall" },
+  { "code": "UEWP04", "text": "Assess the weight to be lifted (workers, materials, tools and equipment) and never exceed the recommended lifting capacity" },
+  { "code": "UEWP05", "text": "EWP surface area must be checked to make sure that there are no penetrations or obstructions which could cause uncontrolled movement or overturning of the EWP" },
+  { "code": "UEWP06", "text": "Make sure all guardrails and/or access doors are closed and secure before leaving the ground" },
+  { "code": "UEWP07", "text": "Make sure all workers stay within the platform or boom bucket at all times" },
+  { "code": "UEWP08", "text": "Immediately cease work and return to ground level if the weather becomes hazardous" },
+  { "code": "UEWP09", "text": "Secure all loose objects. Use a lanyard where appropriate such as carrying hand tools" },
+  { "code": "UEWP10", "text": "Check materials, equipment or objects below or near work platform are secure" },
+  { "code": "UEWP11", "text": "Maintain control of materials on the work platform" },
+  { "code": "UEWP12", "text": "Make sure the platform is kept well clear of materials and other equipment" },
+  { "code": "UEWP13", "text": "Make sure all workers enter and exit the EWP from ground level" },
+  { "code": "UEWP14", "text": "Never enter or exit the EWP when in the raised position" },
+  { "code": "UEWP15", "text": "Never use ladders, steps or similar on the EWP to gain extra reach" },
+  { "code": "UEWP16", "text": "Never use the EWP to carry heavy tools or equipment" },
+  { "code": "UEWP17", "text": "Always check to make sure all ladders, steps and ramps are stable before descending" },
+  { "code": "UEWP18", "text": "Provide safe means of lowering tools, plant, materials and debris to make sure they are not carried while descending ladders, steps, and ramps" }
+]
